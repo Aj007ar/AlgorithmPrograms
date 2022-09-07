@@ -1,0 +1,15 @@
+D:\BL\LinuxBatch-560\LFP-183-DotNet\AlgorithmProgram\AlgotithamPrograms\AlogorithmPrograms\bin\Debug\net6.0\AlogorithmPrograms.exe
+D:\BL\LinuxBatch-560\LFP-183-DotNet\AlgorithmProgram\AlgotithamPrograms\AlogorithmPrograms\bin\Debug\net6.0\AlogorithmPrograms.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\AlgorithmProgram\AlgotithamPrograms\AlogorithmPrograms\bin\Debug\net6.0\AlogorithmPrograms.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\AlgorithmProgram\AlgotithamPrograms\AlogorithmPrograms\bin\Debug\net6.0\AlogorithmPrograms.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\AlgorithmProgram\AlgotithamPrograms\AlogorithmPrograms\bin\Debug\net6.0\AlogorithmPrograms.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\AlgorithmProgram\AlgotithamPrograms\AlogorithmPrograms\obj\Debug\net6.0\AlogorithmPrograms.csproj.AssemblyReference.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\AlgorithmProgram\AlgotithamPrograms\AlogorithmPrograms\obj\Debug\net6.0\AlogorithmPrograms.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL\LinuxBatch-560\LFP-183-DotNet\AlgorithmProgram\AlgotithamPrograms\AlogorithmPrograms\obj\Debug\net6.0\AlogorithmPrograms.AssemblyInfoInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\AlgorithmProgram\AlgotithamPrograms\AlogorithmPrograms\obj\Debug\net6.0\AlogorithmPrograms.AssemblyInfo.cs
+D:\BL\LinuxBatch-560\LFP-183-DotNet\AlgorithmProgram\AlgotithamPrograms\AlogorithmPrograms\obj\Debug\net6.0\AlogorithmPrograms.csproj.CoreCompileInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\AlgorithmProgram\AlgotithamPrograms\AlogorithmPrograms\obj\Debug\net6.0\AlogorithmPrograms.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\AlgorithmProgram\AlgotithamPrograms\AlogorithmPrograms\obj\Debug\net6.0\refint\AlogorithmPrograms.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\AlgorithmProgram\AlgotithamPrograms\AlogorithmPrograms\obj\Debug\net6.0\AlogorithmPrograms.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\AlgorithmProgram\AlgotithamPrograms\AlogorithmPrograms\obj\Debug\net6.0\AlogorithmPrograms.genruntimeconfig.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\AlgorithmProgram\AlgotithamPrograms\AlogorithmPrograms\obj\Debug\net6.0\ref\AlogorithmPrograms.dll
