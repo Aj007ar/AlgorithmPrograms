@@ -18,7 +18,7 @@ namespace AlogorithmPrograms
             {
                 Console.WriteLine(element);
             }
-            Console.WriteLine("\n\nEnter the word to be found");
+            Console.WriteLine("\n\n Enter the word to be found");
             string key = Console.ReadLine();
 
             bool result = Search(list, 0, list.Count - 1, key);
