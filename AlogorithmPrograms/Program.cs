@@ -6,7 +6,7 @@
 		public void select()
         {
             Console.WriteLine("\nWelcome TO Algorithm Programs");
-            Console.WriteLine("\n1.Binary Search\n2.Insertion Sort");
+            Console.WriteLine("\n1.Binary Search\n2.Insertion Sort\n3.Merge Sort");
             Console.WriteLine("0.Exit");
             Console.WriteLine("Choose your option");
             int option=Convert.ToInt32(Console.ReadLine());
@@ -21,6 +21,11 @@
                 case 2:
                     Console.WriteLine("***Insertion Sort***");
                     InsertionSort<int>.InsertionSortOperation();
+                    select();
+                    break;
+                case 3:
+                    Console.WriteLine("***Merge Sort***");
+                    MergeSort<int>.MergeSorting();
                     select();
                     break;
             }
